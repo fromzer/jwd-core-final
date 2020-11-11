@@ -3,3 +3,13 @@
 build/
 
 *.iml
+target/
+doc/
+logs/
+.idea/
+.repository/
+*.iws
+*.class
+*.info
+*.properties
+*.jar
